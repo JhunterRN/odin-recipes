@@ -1,9 +1,18 @@
-.box{
+*{
+    box-sizing: border-box;
+}
+.content {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     text-align: center;
 }
-.title {
-    color: white;
-}
 .button {
-    
+    display:block;
+    width: 95%;
+    padding: 2em;
+    font-size: 16px;
+    margin: 0.5% auto;
 }
+
