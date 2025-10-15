@@ -1,0 +1,9 @@
+* {
+    box-sizing:border-box;
+}
+body{
+    background-color:  hsl(0, 2%, 12%);
+}
+.container {
+    color: hsl(0, 0%, 83%);
+}
