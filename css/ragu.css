@@ -1,0 +1,44 @@
+* {
+    box-sizing:border-box;
+}
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: hsl(0, 2%, 12%);
+}
+a {
+    color: hsl(0, 0%, 83%);
+}
+a:visited {
+    color: hsl(39, 91%, 49%);
+}
+.container {
+    color: hsl(0, 0%, 83%);
+    background-color: hsla(244, 70%, 34%, 0.75);
+}
+h1 {
+    text-align: center;
+}
+.ragu {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+}
+section {
+    padding: 0 20px;
+}
+.content {
+    /* border: 1px solid white; */
+    margin:  2.5%;
+    max-width: 100%;
+}
+h2 {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px
+}
+footer {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 50px;
+}
