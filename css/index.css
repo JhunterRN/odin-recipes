@@ -11,6 +11,8 @@ body {
     text-align: center;
     color: hsl(0, 0%, 83%);
     padding: 1.5em;
+    max-width: 800px;
+    margin: 0 auto;
 }
 .button {
     display:block;
